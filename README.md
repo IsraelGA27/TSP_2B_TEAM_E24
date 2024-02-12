@@ -1,8 +1,11 @@
 # TSP_2B_TEAM_E24
 
 Participantes:
+
 	Carlos Emmanuel Rosales Quezada
+
 	Israel Garcia Agüero
+
 	Ricardo Sánchez Méndez
 
 Asesor/a: Maria de Leon Sigg
