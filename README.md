@@ -20,8 +20,10 @@ Este repositorio contiene los avances y el código fuente de una aplicación dis
 
 - **Código de comportamiento:**
 	- https://docs.google.com/document/d/1gDlABodYT_Wj6h-WlAUEbx1Quy368owniKNDLvWT2FI/edit?usp=sharing
-- **Entrevistas, hipótesis y soluciones** 
+- **Entrevistas, hipótesis y soluciones:** 
 	- https://docs.google.com/document/d/1L_jlajVkNKSxVaEX0nbJrF2CUL4DblOk3gd0mZ7reEo/edit?usp=sharing
+- **Repositorio en Drive:**
+	- https://drive.google.com/drive/folders/1ZzBe1DABhTS91gcgLXGV-n1R-XyrbqO3 	
 
 
 
